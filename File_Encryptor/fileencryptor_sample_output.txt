@@ -1,0 +1,19 @@
+//FILE ENCRYPTION
+Choose any one option: 
+1. Encrypt
+2. Decrypt
+1
+Enter the input file path: input.txt
+Enter the output file path: encrypted_output.txt
+Enter the encryption key: 5
+File encrypted successfully!
+
+//FILE DECRYPTION
+Choose any one option: 
+1. Encrypt
+2. Decrypt
+2
+Enter the input file path: encrypted_output.txt
+Enter the output file path: decrypted_output.txt
+Enter the encryption key: 5
+File decrypted successfully!
